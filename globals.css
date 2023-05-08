@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+font-family: monospace;
+
+}
+/* div {
+    border:  0.1px solid red !important;
+  }  */
+/* nav {
+  border:  0.1px solid blue !important;
+  } */
+  
+  
